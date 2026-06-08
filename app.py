@@ -4,7 +4,7 @@ os.environ["TOKENIZERS_PARALLELISM"] = "false"
 
 import faiss
 import pickle
-import sqlite3
+
 
 import numpy as np
 import pandas as pd
@@ -43,24 +43,13 @@ def load_resources():
 
         bm25 = pickle.load(f)
 
-    conn = sqlite3.connect(
-        "data/metadata.db"
-    )
-
-    metadata_df = pd.read_sql_query(
-        "SELECT * FROM trials_metadata",
-        conn
-    )
-
-    conn.close()
-
     metadata_map = {
-        row["nct_id"]: {
-            "phase": str(row["phase"]),
-            "status": str(row["status"])
-        }
-        for _, row in metadata_df.iterrows()
+    row["nct_id"]: {
+        "phase": str(row["phase"]),
+        "status": str(row["status"])
     }
+    for _, row in df.iterrows()
+   }
 
     model = SentenceTransformer(
         "sentence-transformers/all-MiniLM-L6-v2"
