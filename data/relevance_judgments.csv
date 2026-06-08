@@ -1,0 +1,55 @@
+query,rank,nct_id,title,condition,relevance
+EGFR mutation,1,NCT05103605,Prospective Cohort of Locally Advanced and Metastatic Non-Small Cell Lung Cancer Patients With Activating EGFR Mutations,Non Small Cell Lung Cancer,3
+EGFR mutation,2,NCT01466660,LUX-Lung 7: A Phase IIb Trial of Afatinib(BIBW2992) Versus Gefitinib for the Treatment of 1st Line EGFR Mutation Positive Adenocarcinoma of the Lung,Lung Neoplasms,3
+EGFR mutation,3,NCT04487080,A Study of Amivantamab and Lazertinib Combination Therapy Versus Osimertinib in Locally Advanced or Metastatic Non-Small Cell Lung Cancer,"Carcinoma, Non-Small-Cell Lung",3
+EGFR mutation,4,NCT01962896,A Phase II Study of Sirolimus and Erlotinib in Recurrent/Refractory Germ Cell Tumors,Relapsed / Recurrent Germ Cell Tumors,0
+EGFR mutation,5,NCT01193959,Pemetrexed in Advanced Non-small Cell Lung Cancer,Non-small Cell Lung Cancer (NSCLC),1
+EGFR mutation,6,NCT02846766,Study of Lenvatinib in Patients With Advanced Cancer and Aberrations in FGF/FGFR Signaling,Cancer,0
+EGFR mutation,7,NCT01505205,Study on the Evolution of Genes Mutation Related With Gastrointestinal Stromal Tumors,GIST Gene Mutation Study,0
+EGFR mutation,8,NCT04127110,Activity of Lorlatinib Based on ALK Resistance Mutations Detected on Blood in ALK Positive NSCLC Patients,Non Small Cell Lung Cancer,1
+EGFR mutation,9,NCT00368082,Autologous/Allogeneic TGFbeta-resistant LMP-specific CTL,Lymphoma,0
+EGFR mutation,10,NCT04686188,Exploring the Mechanisms and Dynamics of Clonal Evolution Leading to Recurrence in Prostate Cancer,Prostate Cancer Recurrent,0
+
+KRAS mutation,1,NCT05173805,Phase I Clinical Study of YL-15293 in Patients With Advanced Solid Tumor With KRAS Mutation,Advanced Solid Tumor,3
+KRAS mutation,2,NCT06934590,Evaluate Safety and Tolerability of RX001 in Patients With KRAS Mutant Advanced NSCLC,Non-Small Cell Lung Cancer,3
+KRAS mutation,3,NCT03040791,Nivolumab in Prostate Cancer With DNA Repair Defects (ImmunoProst Trial),Prostate Cancer,0
+KRAS mutation,4,NCT05011383,High Dose Testosterone for ATM CDK12 or CHEK2 Altered Prostate Cancers,Metastatic Prostate Cancer,0
+KRAS mutation,5,NCT04127110,Activity of Lorlatinib Based on ALK Resistance Mutations Detected on Blood in ALK Positive NSCLC Patients,Non Small Cell Lung Cancer,1
+KRAS mutation,6,NCT04686188,Exploring the Mechanisms and Dynamics of Clonal Evolution Leading to Recurrence in Prostate Cancer,Prostate Cancer Recurrent,0
+KRAS mutation,7,NCT01281761,Simvastatin Plus Cetuximab/Irinotecan in K-RAS Mutant Colorectal Cancer,Metastatic Colorectal Cancer,3
+KRAS mutation,8,NCT01427946,Retaspimycin HCl Plus Everolimus in KRAS Mutant NSCLC,Non-small Cell Lung Cancer,3
+KRAS mutation,9,NCT01193959,Pemetrexed in Advanced Non-small Cell Lung Cancer,Non-small Cell Lung Cancer (NSCLC),1
+KRAS mutation,10,NCT01505205,Study on the Evolution of Genes Mutation Related With Gastrointestinal Stromal Tumors,GIST Gene Mutation Study,0
+
+checkpoint inhibitor,1,NCT03260322,A Multiple-dose Study of ASP8374 an Immune Checkpoint Inhibitor as a Single Agent and in Combination With Pembrolizumab in Subjects With Advanced Solid Tumors,Advanced Solid Tumors,3
+checkpoint inhibitor,2,NCT05898256,Cadonilimab in the Treatment of Recurrent/Metastatic Nasopharyngeal Carcinoma,"Nasopharyngeal Carcinoma, Immune Checkpoint Inhibitors",3
+checkpoint inhibitor,3,NCT02117362,Galectin Inhibitor (GR-MD-02) and Ipilimumab in Patients With Metastatic Melanoma,Metastatic Melanoma,2
+checkpoint inhibitor,4,NCT03539822,Cabozantinib Plus Durvalumab With or Without Tremelimumab in Gastrointestinal Malignancies,Gastrointestinal Malignancies,2
+checkpoint inhibitor,5,NCT03305380,Radiomics to Identify Immune Checkpoint Inhibitor-induced Pneumonitis,Stage IV Non-small Cell Lung Cancer,3
+checkpoint inhibitor,6,NCT01112527,PF-00299804 in Adult Patients With Relapsed/Recurrent Glioblastoma,Glioblastoma,0
+checkpoint inhibitor,7,NCT06980350,Novel Model for Identifying Complete Response Following Neoadjuvant Immunotherapy,Colorectal Cancer,2
+checkpoint inhibitor,8,NCT00482274,Docetaxel in Treating Patients With Relapsed Prostate Cancer,Prostate Cancer,0
+checkpoint inhibitor,9,NCT07134842,Brain Cancer Immunotherapy Feasibility Study,Glioblastoma,2
+checkpoint inhibitor,10,NCT07011823,Immune-checkpoint Blockade After Partial Breast Irradiation by Pembrolizumab in Early TNBC,Triple-Negative Breast Neoplasm,3
+
+pembrolizumab,1,NCT04317066,Pembrolizumab in Relapsed or Refractory Primary Mediastinal Large B-cell Lymphoma,Lymphoma,3
+pembrolizumab,2,NCT03025880,Pembrolizumab and Gemcitabine in HER2-negative Advanced Breast Cancer,Advanced Breast Cancer,3
+pembrolizumab,3,NCT04387227,Pembrolizumab and Carboplatin for Recurrent Ovarian Cancer,Ovarian Cancer,3
+pembrolizumab,4,NCT05064059,Favezelimab/Pembrolizumab Versus Standard of Care in Metastatic Colorectal Cancer,Colorectal Cancer,3
+pembrolizumab,5,NCT07011823,Immune-checkpoint Blockade After Partial Breast Irradiation by Pembrolizumab in Early TNBC,Triple-Negative Breast Neoplasm,3
+pembrolizumab,6,NCT05052723,Cabozantinib and Pembrolizumab in Metastatic Pancreatic Cancer,Pancreatic Cancer,3
+pembrolizumab,7,NCT05383170,CyPep-1 in Combination With Pembrolizumab for Advanced or Metastatic Cancers,Advanced Cancers,3
+pembrolizumab,8,NCT06155279,Induction Chemo-Immunotherapy in Pleural Mesothelioma,Pleural Mesothelioma,1
+pembrolizumab,9,NCT03260322,ASP8374 Immune Checkpoint Inhibitor Plus Pembrolizumab,Advanced Solid Tumors,3
+pembrolizumab,10,NCT04893759,Pelcitoclax in Patients With Neuroendocrine Tumors,Neuroendocrine Tumors,0
+
+lung cancer immunotherapy,1,NCT05891080,Toripalimab and JS004 Plus Chemotherapy for Resectable Stage III NSCLC,Stage III Non-small Cell Lung Cancer,3
+lung cancer immunotherapy,2,NCT00323362,Gemcitabine and Imatinib Mesylate in Recurrent or Metastatic NSCLC,Lung Cancer,1
+lung cancer immunotherapy,3,NCT04654520,Primary Tumor Radiotherapy for Stage IV NSCLC,NSCLC,1
+lung cancer immunotherapy,4,NCT04127110,Lorlatinib Based on ALK Resistance Mutations in ALK Positive NSCLC,NSCLC,1
+lung cancer immunotherapy,5,NCT04214262,Atezolizumab Plus Radiation Treatment for Early NSCLC,Early Non-small Cell Lung Cancer,3
+lung cancer immunotherapy,6,NCT00130780,BEACON Study Bevacizumab and Chemotherapy for Operable NSCLC,Non-Small Cell Lung Cancer,1
+lung cancer immunotherapy,7,NCT06434103,SHR-A1921 Plus Adebrelimab for Advanced NSCLC,Advanced NSCLC,3
+lung cancer immunotherapy,8,NCT06934590,RX001 in KRAS Mutant Advanced NSCLC,Advanced NSCLC,1
+lung cancer immunotherapy,9,NCT03467360,Carbonic Anhydrase Inhibition With Radioimmunotherapy in Small Cell Lung Carcinoma,Small Cell Lung Cancer,2
+lung cancer immunotherapy,10,NCT01426841,Adaptive Thoracic Radiotherapy for Small Cell Lung Cancer,Small Cell Lung Cancer,0

@@ -1,0 +1,15 @@
+venv/
+
+__pycache__/
+*.pyc
+
+.DS_Store
+
+data/metadata.db
+data/embeddings.npy
+
+indexes/*.index
+indexes/*.pkl
+
+.cache/
+.env

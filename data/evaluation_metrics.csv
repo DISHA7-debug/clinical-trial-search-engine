@@ -1,0 +1,4 @@
+Retriever,NDCG@10
+FAISS,0.9343
+BM25,0.5958
+Hybrid,0.8302
